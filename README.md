@@ -11,5 +11,5 @@ A Group Project where we combined software and hardware to create a fully functi
 4. Launch the MATLAB file and the BASystem.ino file
 5. Run both whilst connected to the hardware system.
 
-## Results
+
 Results can be found inside the results folder of this project.
